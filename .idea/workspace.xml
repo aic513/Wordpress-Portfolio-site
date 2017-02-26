@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba14aae7-b901-4e9b-95e7-75458d3d5e74" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/portfolio/footer.php" afterPath="$PROJECT_DIR$/wp-content/themes/portfolio/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/portfolio/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/portfolio/functions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/portfolio/footer-page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/portfolio/header-page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/portfolio/page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/portfolio/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/portfolio/header.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/portfolio/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/portfolio/style.css" />
     </list>
     <ignored path="portfolio.wp.iws" />
@@ -36,7 +39,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/portfolio/footer.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="391">
@@ -48,11 +51,53 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="page.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/portfolio/page.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header-page.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/portfolio/header-page.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1467049796000" expanded="true" signature="373:422" placeholder="..." />
+                <marker date="1467049796000" expanded="true" signature="384:412" placeholder="{...}" />
+                <marker date="1467049796000" expanded="true" signature="488:726" placeholder="..." />
+                <marker date="1467049796000" expanded="true" signature="499:603" placeholder="{...}" />
+                <marker date="1467049796000" expanded="true" signature="635:716" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/portfolio/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
+              <folding>
+                <marker date="1488103237196" expanded="true" signature="691:755" placeholder="..." />
+                <marker date="1488103237196" expanded="true" signature="706:743" placeholder="{...}" />
+                <marker date="1488103237196" expanded="true" signature="823:1091" placeholder="..." />
+                <marker date="1488103237196" expanded="true" signature="838:951" placeholder="{...}" />
+                <marker date="1488103237196" expanded="true" signature="987:1079" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/portfolio/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="443">
-              <caret line="189" column="17" selection-start-line="189" selection-start-column="17" selection-end-line="189" selection-end-column="17" />
+            <state relative-caret-position="327">
+              <caret line="91" column="20" selection-start-line="91" selection-start-column="20" selection-end-line="91" selection-end-column="20" />
               <folding>
                 <element signature="e#422#1253#2" expanded="true" />
               </folding>
@@ -72,22 +117,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/portfolio/header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
-              <folding>
-                <marker date="1488096903012" expanded="true" signature="665:714" placeholder="..." />
-                <marker date="1488096903012" expanded="true" signature="676:704" placeholder="{...}" />
-                <marker date="1488096903012" expanded="true" signature="772:1010" placeholder="..." />
-                <marker date="1488096903012" expanded="true" signature="783:887" placeholder="{...}" />
-                <marker date="1488096903012" expanded="true" signature="919:1000" placeholder="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -96,12 +125,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/wp-content/themes/portfolio/header.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/wp-content/themes/portfolio/index.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/portfolio/style.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/portfolio/functions.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/portfolio/footer.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/portfolio/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/portfolio/style.css" />
       </list>
     </option>
   </component>
@@ -289,12 +318,12 @@
       <option name="presentableId" value="Default" />
       <updated>1488050134183</updated>
       <workItem from="1488050135448" duration="705000" />
-      <workItem from="1488050873853" duration="7430000" />
+      <workItem from="1488050873853" duration="8531000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8135000" />
+    <option name="totallyTimeSpent" value="9236000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -356,34 +385,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/portfolio/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
-          <folding>
-            <marker date="1488096903012" expanded="true" signature="665:714" placeholder="..." />
-            <marker date="1488096903012" expanded="true" signature="676:704" placeholder="{...}" />
-            <marker date="1488096903012" expanded="true" signature="772:1010" placeholder="..." />
-            <marker date="1488096903012" expanded="true" signature="783:887" placeholder="{...}" />
-            <marker date="1488096903012" expanded="true" signature="919:1000" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/portfolio/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="189" column="17" selection-start-line="189" selection-start-column="17" selection-end-line="189" selection-end-column="17" />
-          <folding>
-            <element signature="e#422#1253#2" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/portfolio/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="16" selection-start-line="4" selection-start-column="8" selection-end-line="8" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/portfolio/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/portfolio/footer-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -398,12 +421,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/portfolio/footer.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/portfolio/header-page.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <marker date="1467049796000" expanded="true" signature="373:422" placeholder="..." />
+            <marker date="1467049796000" expanded="true" signature="384:412" placeholder="{...}" />
+            <marker date="1467049796000" expanded="true" signature="488:726" placeholder="..." />
+            <marker date="1467049796000" expanded="true" signature="499:603" placeholder="{...}" />
+            <marker date="1467049796000" expanded="true" signature="635:716" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/portfolio/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
+          <folding>
+            <marker date="1488103237196" expanded="true" signature="691:755" placeholder="..." />
+            <marker date="1488103237196" expanded="true" signature="706:743" placeholder="{...}" />
+            <marker date="1488103237196" expanded="true" signature="823:1091" placeholder="..." />
+            <marker date="1488103237196" expanded="true" signature="838:951" placeholder="{...}" />
+            <marker date="1488103237196" expanded="true" signature="987:1079" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/portfolio/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/portfolio/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="91" column="20" selection-start-line="91" selection-start-column="20" selection-end-line="91" selection-end-column="20" />
+          <folding>
+            <element signature="e#422#1253#2" expanded="true" />
           </folding>
         </state>
       </provider>
