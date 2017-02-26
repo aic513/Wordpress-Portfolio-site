@@ -5,8 +5,9 @@
             <p>copyright 2011 <a href="#">www.yoururl.com</a></p>
         </div>
         <div class="foter-right">
-        	<a href="#"><img src="<?php bloginfo('template_url') ?>/images/twitter.jpg" alt="наш твитер" /></a>
-            <a href="#"><img src="<?php bloginfo('template_url') ?>/images/facebook.jpg" alt="мы на facebook" /></a>
+	        <?php if(!dynamic_sidebar( 'footer' )): ?>
+			        <p style="color:white">Место для футера (добавить через текст)</p>
+	        <?php endif; ?>
         </div>
     </div>
 </div>
