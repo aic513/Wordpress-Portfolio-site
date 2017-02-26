@@ -14,3 +14,7 @@ register_sidebar(array(
 	'description' => 'Добавьте слайдер через виджет Текст',
 	'before_widget' => '',
 	'after_widget' => ''));
+/*
+ * Добавляем миниатюру
+ */
+add_theme_support('post-thumbnails');
