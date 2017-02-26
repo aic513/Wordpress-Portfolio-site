@@ -1,0 +1,210 @@
+.mo_wpns_help_title {
+	font-size:17px;
+	width:100%;
+	color:#1B79AE;
+	cursor:pointer;
+	font-weight: bold;
+}
+.mo_wpns_help_desc {
+	font-size:13px;
+	border-left:solid 2px rgba(128, 128, 128, 0.65);
+	margin-top:10px;
+	padding-left:10px;
+	margin-bottom:20px
+}
+.mo_wpns_help {
+	width: 95%;
+}
+.mo_wpns_help_cell {
+	padding: 20px;
+	border-bottom: solid 1px grey;
+}
+.mo_wpns_support_layout{
+       width: 93%;
+       background-color:#FFFFFF; 
+       border:1px solid #CCCCCC; 
+       padding-left:20px; 
+}
+.mo_wpns_table_layout {
+	background-color:#FFFFFF; 
+	border:1px solid #CCCCCC; 
+	padding:0px 10px 10px 10px;
+	margin-bottom: 10px;
+}
+
+
+.mo_wpns_table_layout {
+	background-color:#FFFFFF; 
+	border:1px solid #CCCCCC; 
+	padding:0px 24px 10px 20px;
+	min-height:360px;
+}
+.mo_wpns_small_layout{
+	background-color:#FFFFFF; 
+	border:1px solid #CCCCCC; 
+	padding:10px 24px 10px 20px;
+	margin-bottom: 20px;
+}
+.mo_wpns_container{
+	padding:10px;
+}
+.mo_wpns_support_layout{
+	width: 93%;
+	background-color:#FFFFFF; 
+	border:1px solid #CCCCCC; 
+	padding-left:3%;
+	padding-right:3%;
+}
+
+.mo_wpns_table_layout td strong {
+	margin-left: 10px;
+}
+.col1 {
+	width: 20%;
+}
+.mo_wpns_left {
+	overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    white-space: nowrap !important;
+    display: inline-block !important;
+}
+.mo_wpns_right {
+	float: right !important;
+}
+#panel1{
+	width: 100%;
+}
+.fixed {
+	//width: 75% !important;
+}
+.mo_wpns_table_textbox {
+	width:100%;
+	border-radius:4px;
+	height:30px;
+}
+.mo_wpns_settings_table {
+	width: 100%;
+}
+
+#mo_wpns_note{
+	background-color: #d9edf7;
+	border-radius: 4px;
+	padding: 5px;
+	color: #31708f;
+}
+.button-green{
+	background: #95D387 !important;
+	color: #ffffff !important;
+	border: 1px solid #95D387 !important;
+}
+
+.mo_wpns_input_success{
+	background: url(../images/success.png) no-repeat scroll 7px 7px;
+	padding-left: 35px;
+    background-size: 25px 25px;
+    background-position: 5px 2px;  
+}
+
+.mo_wpns_input_error{
+	background: url(../images/error.png) no-repeat scroll 7px 7px;
+	padding-left: 33px;
+    background-size: 20px 20px;
+    background-position: 6px 5px;  
+}
+
+.mo_wpns_local_pricing_table{
+	text-align:center;
+	font-size: 15px !important;
+	background-color:#FFFFFF; 
+}
+
+.mo_wpns_local_pricing_header{
+	color: #fff !important;
+	margin: 4px !important;
+}
+
+.mo_wpns_local_pricing_sub_header{
+	margin: 2px !important;
+	color: #fff !important;
+	
+}
+
+.mo_wpns_pricing_text{
+	font-size: 15px !important;
+	color: #fff !important;
+	font-weight: bold !important;
+}
+
+.mo_wpns_local_pricing_free_tab{
+	background-color: rgba(34, 153, 221, 0.82)!important;
+	
+	
+}
+
+.mo_wpns_local_pricing_paid_tab{
+	background-color: #1a71a4 !important;
+
+	
+}
+
+.mo_wpns_local_thumbnail{
+	width: 350px;
+    padding: 4px;
+    margin-bottom: 10px;
+    line-height: 1.42857143;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    -webkit-transition: border .2s ease-in-out;
+    -o-transition: border .2s ease-in-out;
+    transition: border .2s ease-in-out;
+}
+
+.blockedips_table{
+	width:100%;
+}
+
+.blockedips_table th{
+	text-align:left;
+}
+
+.blockedips_table{
+   border: 1px solid black;
+   border-collapse: collapse;
+}
+
+.blockedips_table th, .blockedips_table td {
+    border: 1px solid black;
+	text-align: left;
+    padding: 4px;
+}
+
+.blockedips_table tr:nth-child(even){background-color: #f2f2f2}
+
+.blockedips_table th {
+    background-color: #D6D6D6;
+    color: #222;
+}
+
+.redtext{color:red;}
+
+.mo_wpns_subheading{
+	margin-bottom:10px;
+	margin-top:-10px;
+}
+
+.premium_div{
+	background: #ddd !important;
+}
+
+.warning_div{
+	display:block;margin-top:10px;color:red;background-color:rgba(251, 232, 0, 0.15);padding:5px;border:solid 1px rgba(255, 0, 9, 0.36);
+}
+
+.one-third{
+	width:33%;
+}
+
+h1 .nav-tab, h2 .nav-tab{
+	font-size : 14px !important;
+}
