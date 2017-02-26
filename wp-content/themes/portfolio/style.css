@@ -224,3 +224,7 @@ img.alignright,
 img.aligncenter {
     margin-bottom: 12px;
 }
+
+h2.widgettitle{
+    display: none;
+}
