@@ -3,7 +3,7 @@
 
 
         <div class="content-main-blocks">
-
+            <?php $i = 1; ?>
             <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
 
                 <div>
@@ -26,6 +26,14 @@
                     <?php the_excerpt() ?>
                     <p><a href="<?php the_permalink() ?>" class="read-more"> Read more</a></p>
                 </div>
+
+                <?php
+                if ($i == 3) {
+                    echo "<div class='clear'></div>";
+                    $i = 0;
+                }
+                $i++;
+                ?>
 
             <?php endwhile; ?>
                 <!-- post navigation -->
